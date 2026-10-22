@@ -25,7 +25,6 @@ export const GAOL_HP = 300;
 export const GAOL_TIMEOUT = 5;
 export const AUTO_REVIVE_SECONDS = 15;
 export const RAISE_CAST_SECONDS = 2;
-export const SNAPSHOT_HZ = 10;
 export const ROOM_NAME = 'raid:main';
 export const TABLE_EVENTS = 'raid_events';
 export const TABLE_STATE = 'raid_state';
